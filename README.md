@@ -17,7 +17,7 @@ E-mail:- [nikhilsaini7981@gmail.com](mailto:nikhilsaini7981@gmail.com)
 
 # 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,6 +34,7 @@ E-mail:- [nikhilsaini7981@gmail.com](mailto:nikhilsaini7981@gmail.com)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
 ---
+
 
 ```
      Happy Coding !!
