@@ -16,9 +16,7 @@
 ---
 
 ### 💫 About Me
-I am a dedicated **Software Engineer** specializing in building scalable, production-grade mobile applications for iOS and Android. With strong expertise in **React Native**, **TypeScript**, and modern frontend architectures, I excel at transforming complex product designs into polished, high-performance user experiences. 
-
-I have a proven track record of integrating backend services, optimizing mobile performance, and independently shipping end-to-end features under minimal supervision.
+Software Engineer specializing in engineering high-performance, production-grade mobile applications for iOS and Android. Expert in React Native, TypeScript, and scalable frontend architectures. Focused on building fluid UI animations, optimizing mobile performance (rendering and startup time), and integrating robust backend systems to deliver seamless, production-ready experiences.
 
 ---
 
