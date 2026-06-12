@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Nikhil Saini! 👋</h1>
   <h3>Software Engineer - React Native Developer</h3>
-  <p><b>Rewari, Haryana | +91 7590032350 | <a href="mailto:nikhilsaini7981@gmail.com">nikhilsaini7981@gmail.com</a></b></p>
+  <p><b>Chandigarh, India | <a href="mailto:nikhilsaini7981@gmail.com">nikhilsaini7981@gmail.com</a></b></p>
 
   <p>
     <a href="https://linkedin.com/in/nikhilsaini2" target="_blank">
